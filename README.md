@@ -1,4 +1,4 @@
-![Maze Adventure Game Thumbnail](relative-or-raw-url)
+![Maze Adventure Game Thumbnail](assets/project-thumbnail.png)
 
 # Maze Adventure Game 🎮
 
